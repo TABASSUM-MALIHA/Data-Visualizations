@@ -1,0 +1,11 @@
+TransactionID,Date,City,State,Amount,ProfitOrLoss,PaymentMethod,Status
+1001,2026-01-01,Hyderabad,Telangana,450,Profit,UPI,Success
+1002,2026-01-02,Mumbai,Maharashtra,1200,Profit,Credit Card,Success
+1003,2026-01-03,Delhi,Delhi,300,Loss,Wallet,Failed
+1004,2026-01-04,Bengaluru,Karnataka,750,Profit,Debit Card,Success
+1005,2026-01-05,Chennai,Tamil Nadu,200,Loss,UPI,Pending
+1006,2026-01-06,Pune,Maharashtra,980,Profit,Net Banking,Success
+1007,2026-01-07,Kolkata,West Bengal,1500,Loss,Credit Card,Failed
+1008,2026-01-08,Jaipur,Rajasthan,220,Profit,Wallet,Success
+1009,2026-01-09,Ahmedabad,Gujarat,670,Profit,Debit Card,Success
+1010,2026-01-10,Lucknow,Uttar Pradesh,450,Loss,UPI,Success
